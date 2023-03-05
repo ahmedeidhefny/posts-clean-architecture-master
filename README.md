@@ -3,7 +3,7 @@
 
 Hi everyone. I'm Ahmed Eid a mobile developer. 🧍‍
 
-This is a sample kotlin android project. 😜
+This is a sample Flutter project. 😜
 
 Clean MVVM has become one of the standard architectures around which large Android projects are developed.
 
