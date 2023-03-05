@@ -1,11 +1,11 @@
-# Android Clean MVVM architecture
+# Android Clean MVVM & BLOC architecture
 
 
 Hi everyone. I'm Ahmed Eid a mobile developer. 🧍‍
 
 This is a sample Flutter project. 😜
 
-Clean MVVM has become one of the standard architectures around which large Android projects are developed.
+Clean MVVM & BLOC has become one of the standard architectures around which large Android projects are developed.
 
 ### The basic flow looks like this 😎
 
